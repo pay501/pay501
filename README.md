@@ -10,7 +10,7 @@ I'm majoring at Srinakharinwirot university in the third year.
 * 🧠  I'm learning C+, C++, Ethical Hacking, Cyber Sucurity
 * ⚡  Not everyone has easy life. Improve yourself!
 
-### Skills
+### Skills && Tools
 
 
 <p align="left">
