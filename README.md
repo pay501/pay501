@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kittichai Jatha
 =======================================================================================================================================
 
-Univ Student
+University Student
 ------------
 
 I'm majoring at Srinakharinwirot university in the third year.
@@ -10,7 +10,7 @@ I'm majoring at Srinakharinwirot university in the third year.
 * 🧠  I'm learning C+, C++, Ethical Hacking, Cyber Sucurity
 * ⚡  Not everyone has easy life. Improve yourself!
 
-### Skills && Tools
+### :hammer_and_wrench: Skills & Tools:
 
 
 <p align="left">
@@ -24,10 +24,22 @@ I'm majoring at Srinakharinwirot university in the third year.
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/pay501"><img src="https://github-readme-stats.vercel.app/api?username=pay501&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pay501's GitHub stats" /></a>
+<hr/>
 
-<a href="http://www.github.com/pay501"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pay501&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<a href="https://github.com/pay501" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pay501&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
